@@ -1,5 +1,5 @@
 {
-  "name": "rut",
+  "name": "rut-validator-formatter",
   "version": "1.0.0",
   "description": "validator and formatter for chilean rut",
   "main": "src/index.js",
